@@ -1,0 +1,22 @@
+site_name: SuperCity wet en regelgeving
+
+theme:
+  name: material
+
+# Copyright
+copyright: Copyright &copy; 2023 - 2024 SuperCity
+
+favicon: img/Logo.png
+logo: img/Logo.webp
+ 
+nav:
+  - Home: index.md
+  - Algemene Plaatselijke Verordening: apv.md
+  - Wetboek: wetboek.md
+  - Gebieden: risico-gebieden.md
+  - Kosten:
+    - Advocatuur: kosten/advocaat.md
+    - Ambulance: kosten/ambulance.md
+    - ANWB: kosten/anwb.md
+    - Politie: kosten/politie.md
+    - Impound: kosten/inbeslagname.md
