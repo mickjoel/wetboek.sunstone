@@ -58,6 +58,3 @@ Bij de anwb worden verschillende categorieën gehanteerd hier onder zijn deze te
 | Afleverkosten | € 500,- |
 | Kleine benzine bijvullen | € 125,- |
 | Grote benzine bijvullen | € 250,- |
-
-!!! attention "LET OP"
-    De prijzen kunnen ten alle tijden worden worden gewijzigd
