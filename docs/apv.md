@@ -483,7 +483,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 ### Artikel 49 - Voertuigverlies in water (bij achtervolging)
 
-1. Wanneer men een voertuig dumpt tijdens een achtervolging, waar bij deze in het water terecht komt, zal deze in beslag worden genomen conform [Artikel A7 - Inbeslagname](https://wetboek.tedeapolis.nl/wetboek/#a7-inbeslagname).
+1. Wanneer men een voertuig dumpt tijdens een achtervolging, waar bij deze in het water terecht komt, zal deze in beslag worden genomen conform Artikel A7 - Inbeslagname.
 
 ### Artikel 50 - Schieten van uit een voertuig
 
@@ -618,14 +618,6 @@ Onderstaande regels tellen alleen op Narcopolis
 * wanneer je wordt vermoord door een rivaliserende gang mag je 24 uur niet deelnemen aan eventuele wraakacties of roleplay richting een andere gang.
 * Het is verboden een ambulancier of anwb'er te vermoorden of te ontvoeren bij een oproep of gebruik van hun.
 * Het is verboden om drugslocaties of wapens te verkopen via twitter, ook als je het hebt over "theeblaadjeslocaties", "broodmessen", "waterpistolen" en dergelijke.
-
-## Bijlages
-
-### Bijlage 1
-
-![bijlage-1](https://tedeapolis.nl/wp-content/uploads/2021/08/Schermafbeelding_2021-08-23_om_10.png)
-
-### Bijlage 2
 
 ```md
 Op [datum] heeft [Eigen groepsnaam] een samenwerking opgesteld met [Andere groepsnaam].
