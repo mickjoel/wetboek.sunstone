@@ -138,8 +138,6 @@
 
 ## Titel I - Vermogensdelicten
 
-![Titel I](img/wetboek/Vermogen.webp)
-
 ### Artikel I-1 Diefstal (310 SR)
 
 1. Schuldig is een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben
@@ -160,8 +158,8 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 50 uur  | €15000,-  |
-| **Tweede Veroordeling**  | 10 maanden  |  | €17500,-  |
+|  **Eerste Veroordeling** |   | 30 uur  | €15000,-  |
+| **Tweede Veroordeling**  | 50 maanden  |  | €17500,-  |
 | **Meerdere Veroordelingen**  | 20 maanden  |   | €25000,-  |
 
 ### Artikel I-3 Diefstal met geweld / Overval (312 SR)
@@ -172,9 +170,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 36 maanden  |  | € 20000,-  |
-| **Tweede Veroordeling**  | 72 maanden  |  | € 25000,-  |
-| **Meerdere Veroordelingen**  | 108 maanden  |  | € 30000,-  |
+|  **Eerste Veroordeling** | 30 maanden  |  | € 20000,-  |
+| **Tweede Veroordeling**  | 40 maanden  |  | € 25000,-  |
+| **Meerdere Veroordelingen**  | 60 maanden  |  | € 30000,-  |
 
 ### Artikel I-4 Afpersing (317 SR)
 
@@ -183,9 +181,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 45 maanden  |  | € 7500,-  |
-| **Tweede Veroordeling**  | 72 maanden  |  | € 10000,-  |
-| **Meerdere Veroordelingen**  | 108 maanden  |  | € 15000,-  |
+|  **Eerste Veroordeling** | 20 maanden  |  | € 7500,-  |
+| **Tweede Veroordeling**  | 42 maanden  |  | € 10000,-  |
+| **Meerdere Veroordelingen**  | 84 maanden  |  | € 15000,-  |
 
 ### Artikel I-5 Afdreiging / Chantage (318 SR)
 
@@ -239,8 +237,6 @@
 
 ## Titel II - Geweldsdelicten
 
-![Titel II](img/wetboek/Geweld.webp)
-
 ### Artikel II-1 Wederspannigheid/verzet (180 SR)
 
 1. Schuldig is een persoon die geweld pleegt of zich gewelddadig verzet tegen een ambtenaar in dienst.
@@ -259,9 +255,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 54 maanden  |   | € 10000,-  |
-| **Tweede Veroordeling**  | 63 maanden  |   | € 15000,-  |
-| **Meerdere Veroordelingen**  | 72 maanden  |   | €20000,-  |
+|  **Eerste Veroordeling** | 40 maanden  |   | € 10000,-  |
+| **Tweede Veroordeling**  | 53 maanden  |   | € 15000,-  |
+| **Meerdere Veroordelingen**  | 78 maanden  |   | €20000,-  |
 
 ### Artikel II-3 Bedreiging (285 SR)
 
@@ -282,9 +278,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 72 maanden  |  | € 15000,-  |
-| **Tweede Veroordeling**  | 81 maanden  |  | € 20000,-  |
-| **Meerdere Veroordelingen**  | 90 maanden  |  | € 25000,-  |
+|  **Eerste Veroordeling** | 48 maanden  |  | € 15000,-  |
+| **Tweede Veroordeling**  | 59 maanden  |  | € 20000,-  |
+| **Meerdere Veroordelingen**  | 70 maanden  |  | € 25000,-  |
 
 ### Artikel II-5 Moord (289 SR)
 
@@ -294,9 +290,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 90 maanden  |  | € 20000,-  |
-| **Tweede Veroordeling**  | 99 maanden  |  | € 25000,-  |
-| **Meerdere Veroordelingen**  | 108 maanden  |  | € 30000,-  |
+|  **Eerste Veroordeling** | 60 maanden  |  | € 20000,-  |
+| **Tweede Veroordeling**  | 75 maanden  |  | € 25000,-  |
+| **Meerdere Veroordelingen**  | 90 maanden  |  | € 30000,-  |
 
 ### Artikel II-6 Eenvoudige mishandeling (300 SR)
 
@@ -307,9 +303,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 50 uur  | € 5000,-  |
-| **Tweede Veroordeling**  |   | 60 uur  | € 7500,-  |
-| **Meerdere Veroordelingen**  |   | 70 uur  | € 10000,-  |
+|  **Eerste Veroordeling** |   | 20 uur  | € 5000,-  |
+| **Tweede Veroordeling**  |   | 40 uur  | € 7500,-  |
+| **Meerdere Veroordelingen**  |   | 60 uur  | € 10000,-  |
 
 ### Artikel II-7 Zware mishandeling (302 SR)
 
@@ -320,7 +316,7 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 9 maanden  |  | € 10000,-  |
+|  **Eerste Veroordeling** | 50 uur  |  | € 10000,-  |
 | **Tweede Veroordeling**  | 13 maanden  |  | € 12500,-  |
 | **Meerdere Veroordelingen**  | 18 maanden  |  | € 15000,-  |
 
@@ -333,8 +329,8 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 15 uur | € 3000,-  |
-| **Tweede Veroordeling**  |   | 25 uur | € 4500,-  |
+|  **Eerste Veroordeling** |   | 20 uur | € 3000,-  |
+| **Tweede Veroordeling**  |   | 35 uur | € 4500,-  |
 | **Meerdere Veroordelingen**  | 9 maanden  |  | € 6000,-  |
 
 ### Titel II-9 Terroristisch misdrijf (134a 142a SR)
@@ -350,9 +346,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 150 maanden  |  | € 30000,-  |
-| **Tweede Veroordeling**  | 180 maanden  |  | € 37500,-  |
-| **Meerdere Veroordelingen**  | 210 maanden  |  | € 45000,-  |
+|  **Eerste Veroordeling** | 102 maanden  |  | € 30000,-  |
+| **Tweede Veroordeling**  | 140 maanden  |  | € 37500,-  |
+| **Meerdere Veroordelingen**  | 190 maanden  |  | € 45000,-  |
 
 ### Artikel II-10 Dood door schuld (307 SR)
 
@@ -366,8 +362,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | **Meerdere Veroordelingen**  | 70 maanden  |  | € 20000,-  |
 
 ## Titel III - Verkeersdelicten
-
-![Titel III](img/wetboek/verkeer.webp)
 
 ### Artikel III-1 Verkeersovertredingen in algemene zin (5 WVW)
 
@@ -410,7 +404,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** | | 45 uur | € 3000,-  | 24-48 uur |
+|  **Eerste Veroordeling** | | 30 uur | € 3500,-  | 24-48 uur |
 | **Tweede Veroordeling**  | 12 maanden  | | € 7500,- | 48-72 uur |
 | **Meerdere Veroordelingen**  | 18 maanden  | | € 10500,-  | 48-72 uur |
 
@@ -607,8 +601,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel IV - Opiumwet
 
-![Titel IV](img/wetboek/opium.webp)
-
 ### Artikel IV-1 Harddrugs (2 OW)
 
 1. Schuldig is een persoon die harddrugs vergaart, in bezit heeft, vervoert, of verkoopt.
@@ -757,8 +749,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel V - Wet Wapens en Munitie
 
-![Titel V](img/wetboek/WWM.webp)
-
 ### Artikel V-1 Tasers (26 WWM)
 
 1. Strafbaar is een persoon die een stroomstootwapen voorhanden heeft, bij zich draagt, opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel.
@@ -778,9 +768,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 | ***`Categorie 1`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 45 maanden  |  | € 10000,-  |
-| **Tweede Veroordeling**  | 63 maanden  |  | € 12500,-  |
-| **Meerdere Veroordelingen**  | 81 maanden  |  | € 15000,-  |
+|  **Eerste Veroordeling** | 30 maanden  |  | € 10000,-  |
+| **Tweede Veroordeling**  | 53 maanden  |  | € 12500,-  |
+| **Meerdere Veroordelingen**  | 71 maanden  |  | € 15000,-  |
 
 | ***`Categorie 2`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -842,8 +832,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel VI - Wet op de Kansspelen
 
-![Titel VII](img/wetboek/kansspellen.webp)
-
 ### Artikel VI-1 Algemeen verbod (1 Wok)
 
 1. Schuldig is een persoon die zonder geldige vergunning een gelegenheid biedt om mee te dingen naar prijzen of geld, in de vorm van een kansspel.
@@ -893,8 +881,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel VII - Uitsluitings- en strafverminderingsgronden
 
-![Titel VII](https://i.imgur.com/7KGl9DA.webp)
-
 ### Artikel VII-1 Algemene Uitsluitingen (39-43 SR)
 
 1. Niet schuldig is een persoon die:
@@ -936,8 +922,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
     6. aandeel van de verdachte in het geheel, indien er sprake is van een grootschalige overtreding met meerdere partijen.
 
 ## Titel VIII - Overige
-
-![Titel VIII](img/wetboek/Overige.webp)
 
 ### Artikel VIII-1 Niet voldoen aan een bevel of vordering (184 SR)
 
