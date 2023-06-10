@@ -1,6 +1,6 @@
-# Wet- en Regelgeving SuperCity
+# Wet- en Regelgeving PrimeCity
 
-👋 | Welkom in de stad SuperCity!
+👋 | Welkom in de stad PrimeCity!
 
 We hebben hier een aantal (APV-)regels die in het onderaan staande link staat, wij willen je erop attenderen om deze even te gaan doorlezen om eventuele bans/ warns te voorkomen.
 
@@ -10,12 +10,11 @@ Wij wensen je super veel plezier in onze stad!
 
 ## Officiële discord servers
 
-Alle SuperCity discord servers:
+Alle PrimeCity discord servers:
 
 | Server | Uitnodigings link |
 |---|---|
-|SuperCity Roleplay| [Link](https://discord.gg/yTS22WGmyV) |
-|SuperCity Support| [Link](https://discord.gg/MgtT7SQeyz) |
-|SuperCity Hulpdiensten| [Link](https://discord.gg/mUGar8Qvf3) |
-|SuperCity Politie| [Link](https://discord.gg/U8dwG3y5Su) |
-|SuperCity Onderwereld| [Link](https://discord.gg/Y69NqNCXG5) |
+|PrimeCity Roleplay| [Link](https://discord.gg/CvadCYAxB8) |
+|PrimeCity Support| [Link](https://discord.gg/BpfZ9Qb3Gt) |
+|PrimeCity Hulpdiensten| [Link](https://discord.gg/e8da8bGUQC) |
+|PrimeCity Onderwereld| [Link](https://discord.gg) |
