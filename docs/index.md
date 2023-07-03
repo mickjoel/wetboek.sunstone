@@ -1,6 +1,6 @@
-# Wet- en Regelgeving PrimeCity
+# Wet- en Regelgeving Primelistiq
 
-👋 | Welkom in de stad PrimeCity!
+👋 | Welkom in de stad Primelistiq!
 
 We hebben hier een aantal (APV-)regels die in het onderaan staande link staat, wij willen je erop attenderen om deze even te gaan doorlezen om eventuele bans/ warns te voorkomen.
 
@@ -10,11 +10,11 @@ Wij wensen je super veel plezier in onze stad!
 
 ## Officiële discord servers
 
-Alle PrimeCity discord servers:
+Alle Primelistiq discord servers:
 
 | Server | Uitnodigings link |
 |---|---|
-|PrimeCity Roleplay| [Link](https://discord.gg/CvadCYAxB8) |
-|PrimeCity Support| [Link](https://discord.gg/BpfZ9Qb3Gt) |
-|PrimeCity Hulpdiensten| [Link](https://discord.gg/e8da8bGUQC) |
-|PrimeCity Onderwereld| [Link](https://discord.gg) |
+|Primelistiq Roleplay| [Link](https://discord.gg/CvadCYAxB8) |
+|Primelistiq Support| [Link](https://discord.gg/BpfZ9Qb3Gt) |
+|Primelistiq Hulpdiensten| [Link](https://discord.gg/e8da8bGUQC) |
+|Primelistiq Onderwereld| [Link](https://discord.gg) |
