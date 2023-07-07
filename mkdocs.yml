@@ -1,10 +1,10 @@
-site_name: PrimeCity wet en regelgeving
+site_name: Primelistiq wet en regelgeving
 
 theme:
   name: material
 
 # Copyright
-copyright: Copyright &copy; 2023 - 2024 PrimeCity
+copyright: Copyright &copy; 2023 - 2024 Primelistiq
 
 favicon: img/Logo.png
 logo: img/Logo.webp
