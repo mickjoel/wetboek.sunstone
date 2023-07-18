@@ -14,7 +14,9 @@ Alle Primelistiq discord servers:
 
 | Server | Uitnodigings link |
 |---|---|
-|Primelistiq Roleplay| [Link](https://discord.gg/CvadCYAxB8) |
-|Primelistiq Support| [Link](https://discord.gg/BpfZ9Qb3Gt) |
-|Primelistiq Hulpdiensten| [Link](https://discord.gg/e8da8bGUQC) |
-|Primelistiq Onderwereld| [Link](https://discord.gg) |
+|Primelistiq Roleplay| [Link](https://discord.gg/hzjENqD78Y) |
+|Primelistiq Support| [Link](https://discord.gg/8CdrEbwwsA) |
+|Primelistiq Hulpdiensten| [Link](https://discord.gg/WvtGbNQQUr) |
+|Primelistiq Onderwereld| [Link](https://discord.gg/UTDD3udNVK) |
+|Primelistiq Cardealer| [Link](https://discord.gg/5NhPSGQvAg) |
+
