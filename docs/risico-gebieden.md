@@ -14,6 +14,6 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Primelisti
 
 ## Kaartweergave
 
-![Kaart met risicogebieden](img/risicoGebieden.webp)
-![No fly zones](img/restrictedAirspace.webp)
-![Kaart met douanegebieden](img/douaneGebieden.webp)
+Risicogebieden![Kaart met risicogebieden](img/risicoGebieden.webp)
+No fly zones![No fly zones](img/restrictedAirspace.webp)
+Douanegebieden![Kaart met douanegebieden](img/douaneGebieden.webp)
