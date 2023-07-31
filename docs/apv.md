@@ -546,6 +546,12 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
     * Enkel dansen als dansers in clubs.
 3. Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 7e categorie.
 
+### Artikel 58 - Reanimeren voor agenten
+
+1. Politie/ KMAR mogen niet hun eigen collega's via hun F6 menu omhoog helpen/reviven.
+2. Politie/ KMAR mogen pas mensen gaan reanimeren zodra er 0 ambulanciers in de stad zijn.
+3. Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van maximimaal de 4e categorie.
+4. 
 ## Eiland
 
 Onderstaande regels tellen alleen op eiland
