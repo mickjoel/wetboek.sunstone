@@ -31,11 +31,10 @@
 1. Schuldig is een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben
 2. Bij een poging tot diefstal is de maximaal op te leggen straf 33% van de volledige strafeis
 
-|   | *Soort bedrijf*  | *bedrijfvestiging*  | *eigenaar*  |
 |---|---|---|---|
-|  **Kip bedrijf** |   | 5045  | Mick Joel Escobar & Mauro Krekels  |
-| **Tweede Veroordeling**  | 18 maanden  |  | €12500,-  |
-| **Meerdere Veroordelingen**  | 36 maanden  |   | €15000,-  |
+|  **Soort bedrijf** | Restaurant |   | 
+| **Bedrijfsvestiging**  | 6353  |  |    |
+| **Eigenaar**  | Mick Joel Escobar | Mauro Krekels |
 
 ---------------------
 *Wetboek Primelistiq is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad Primelistiq, opgetekend door Mick Joel Escobar, te Primelistiq.*
