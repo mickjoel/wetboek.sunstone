@@ -7,7 +7,7 @@
 1. Bedrijven die geen KVK registratie hebben, failliet of verlopen zijn mogen aangehouden worden.
 2. Als dit feit wordt aangetoond worden de volgende straffen opgelegd voor de eigenaar.
 
-|   | *Celstraf*  | *taakstraf*  | *boete*  |
+|   |  |  |  |
 |---|---|---|---|
 |  **Eerste Veroordeling** |   |  | €10000,-  |
 | **Tweede Veroordeling**  |   |  | €12500,-  |
