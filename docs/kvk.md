@@ -7,7 +7,7 @@
 1. Bedrijven die geen KVK registratie hebben, failliet of verlopen zijn mogen aangehouden worden.
 2. Als dit feit wordt aangetoond worden de volgende straffen opgelegd voor de eigenaar.
 
-|   |  |  |  |
+| *Celstraf*  | *taakstraf* | *boete* |  |
 |---|---|---|---|
 |  **Eerste Veroordeling** |   |  | €10000,-  |
 | **Tweede Veroordeling**  |   |  | €12500,-  |
@@ -32,7 +32,6 @@
 2. Bij een poging tot diefstal is de maximaal op te leggen straf 33% van de volledige strafeis
    
 |   |   |   |   |
-|---|---|---|---|
 |  **Soort bedrijf** | Restaurant |   | 
 | **Bedrijfsvestiging**  | 6353  |  |    |
 | **Eigenaar**  | Mick Joel Escobar | Mauro Krekels |
