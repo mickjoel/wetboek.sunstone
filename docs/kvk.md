@@ -28,8 +28,7 @@
 
 ### Los Pollos Hermanos 
 
-1. Schuldig is een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben
-2. Bij een poging tot diefstal is de maximaal op te leggen straf 33% van de volledige strafeis
+1. Hier onder vind je alle informatie over het bedrijf.
    
 |   |  |  |
 |---|---|---|
@@ -38,4 +37,4 @@
 | **Eigenaar**  | Mick Joel Escobar | Mauro Krekels |
 
 ---------------------
-*Wetboek Primelistiq is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad Primelistiq, opgetekend door Mick Joel Escobar, te Primelistiq.*
+*Bedrijfsinschrijvingen Primelistiq is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad Primelistiq, opgetekend door Mick Joel Escobar, te Primelistiq.*
