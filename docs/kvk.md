@@ -35,5 +35,10 @@
 | **Bedrijfsvestiging**  | 6353  |  |    |
 | **Eigenaar**  | Mick Joel Escobar | Mauro Krekels |
 
+|---|---|---|---|
+|  **Eerste Veroordeling** |   |  | €10000,-  |
+| **Tweede Veroordeling**  |   |  | €12500,-  |
+| **Meerdere Veroordelingen**  |   |   | €15000,-  |
+
 ---------------------
 *Wetboek Primelistiq is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad Primelistiq, opgetekend door Mick Joel Escobar, te Primelistiq.*
