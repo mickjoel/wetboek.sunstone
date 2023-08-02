@@ -31,10 +31,10 @@
 1. Schuldig is een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben
 2. Bij een poging tot diefstal is de maximaal op te leggen straf 33% van de volledige strafeis
    
-|   |   |   |   |
+| *Veroordeling*  | *celstraf* | *taakstraf* | *boete* |
 |---|---|---|---|
-|  **Soort bedrijf** | Restaurant |   | 
-| **Bedrijfsvestiging**  | 6353  |  |    |
+|  **Soort bedrijf** | Restaurant |
+| **Bedrijfsvestiging**  | 6353  |
 | **Eigenaar**  | Mick Joel Escobar | Mauro Krekels |
 
 ---------------------
