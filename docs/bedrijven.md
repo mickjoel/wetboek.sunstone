@@ -15,7 +15,7 @@
 
 ### A4 - Soorten bedrijven
 
-1. Bedrijfssoorten zijn hieronder vastgesteld die mogelijk zijn in Primelistiq:
+1. Bedrijfssoorten zijn hieronder vastgesteld die mogelijk zijn in Primelistiq: 
     * Restaurant
     * Cafe
     * Horeca
