@@ -1,18 +1,6 @@
-# Kamer van Koophandel inschrijvingen Primelistiq
+# Kamer van Koophandel inschrijvingen
 
-## Algemene Bepalingen
-
-### A1 - Reikwijdte
-
-1. Het Wetboek Primelistiq (verder aangeduid als WPQ) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
-2. Het WPQ heeft betrekking op het vaste land, de gemeente, en de stad Primelistiq.
-3. Het WPQ is nauw verweven met de Algemene Plaatselijke Verordening Primelistiq (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
-
-### A2 - Geldigheid
-
-1. Bij verandering van een wetgeving na het tijdstip waarop het feit begaan is, wordt voor de verdachte de meest gunstigste bepalingen toegepast.
-2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
-3. Minderjarigen worden binnen Primelistiq op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in Primelistiq niet van toepassing.
+## Algemene bepaling
 
 ### A2 - Verlopen bedrijf
 
@@ -22,8 +10,8 @@
 |   | *Celstraf*  | *taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** |   |  | €10000,-  |
-| **Tweede Veroordeling**  | 25 taken  |  | €12500,-  |
-| **Meerdere Veroordelingen**  | 22 maanden  |   | €15000,-  |
+| **Tweede Veroordeling**  |   |  | €12500,-  |
+| **Meerdere Veroordelingen**  |   |   | €15000,-  |
 
 ### A4 - Soorten bedrijven
 
@@ -43,9 +31,9 @@
 1. Schuldig is een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben
 2. Bij een poging tot diefstal is de maximaal op te leggen straf 33% van de volledige strafeis
 
-|   | *Soort bedrijf*  | *bedrijfvestiging*  | *medewerkers*  |
+|   | *Soort bedrijf*  | *bedrijfvestiging*  | *eigenaar*  |
 |---|---|---|---|
-|  **1** |   | 20 uur  | €10000,-  |
+|  **Kip bedrijf** |   | 5045  | Mick Joel Escobar & Mauro Krekels  |
 | **Tweede Veroordeling**  | 18 maanden  |  | €12500,-  |
 | **Meerdere Veroordelingen**  | 36 maanden  |   | €15000,-  |
 
