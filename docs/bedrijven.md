@@ -26,7 +26,7 @@
 
 ## Titel I - Ingeschreven bedrijven
 
-### Los Pollos Hermanos 
+### Los Pollos Hermanos
 
 1. Hier onder vind je alle informatie over het bedrijf.
    
