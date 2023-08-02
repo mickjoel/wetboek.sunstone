@@ -33,7 +33,7 @@
 |   |  |  |
 |---|---|---|
 |  **Soort bedrijf** | Restaurant |
-| **Bedrijfsvestiging**  | 6353  |
+| **Bedrijfsvestiging**  | 5035  |
 | **Eigenaar**  | Mick Joel Escobar | Mauro Krekels |
 
 ---------------------
