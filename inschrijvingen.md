@@ -19,17 +19,11 @@
 1. Bedrijven die geen KVK registratie hebben, failliet of verlopen zijn mogen aangehouden worden.
 2. Als dit feit wordt aangetoond worden de volgende straffen opgelegd voor de eigenaar.
 
-|   | **  | *bedrijfvestiging*  | *medewerkers*  |
+|   | *Celstraf*  | *taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **1** |   | 20 uur  | €10000,-  |
-| **Tweede Veroordeling**  | 18 maanden  |  | €12500,-  |
-| **Meerdere Veroordelingen**  | 36 maanden  |   | €15000,-  |
-
-1. Het recht tot strafvordering vervalt door verjaring:
-    * Voor misdrijven waar de totale strafeis tussen de 1 en 100 maanden bedroeg, verjaren deze feiten na 10 dagen;
-    * Voor misdrijven waar de totale strafeis tussen de 101 en 150 maanden maanden bedroeg, verjaren deze feiten na 15 dagen;
-    * Voor misdrijven waar de totale strafeis tussen de 151 en 250 maanden bedroeg, verjaren deze feiten na 30 dagen;
-    * Voor misdrijven waar de totale strafeis meer dan 250 maanden bedroeg, verjaren deze feiten na 45 dagen;
+|  **Eerste Veroordeling** |   |  | €10000,-  |
+| **Tweede Veroordeling**  | 25 taken  |  | €12500,-  |
+| **Meerdere Veroordelingen**  | 22 maanden  |   | €15000,-  |
 
 ### A4 - Soorten bedrijven
 
