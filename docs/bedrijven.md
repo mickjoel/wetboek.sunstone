@@ -36,5 +36,15 @@
 | **Bedrijfsvestiging**  | 6353  |
 | **Eigenaar**  | Mick Joel Escobar | Mauro Krekels |
 
+### Luxury Cardealer
+
+1. Hier onder vind je alle informatie over het bedrijf.
+   
+|   |  |  |
+|---|---|---|
+|  **Soort bedrijf** | Cardealer |
+| **Bedrijfsvestiging**  | 7026  |
+| **Eigenaar**  | Ruben Escobar |
+
 ---------------------
 *Bedrijfsinschrijvingen Primelistiq is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad Primelistiq, opgetekend door Mick Joel Escobar, te Primelistiq.*
