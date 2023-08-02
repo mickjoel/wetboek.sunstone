@@ -36,6 +36,8 @@
 | **Bedrijfsvestiging**  | 6353  |
 | **Eigenaar**  | Mick Joel Escobar | Mauro Krekels |
 
+---------------------
+
 ### Luxury Cardealer
 
 1. Hier onder vind je alle informatie over het bedrijf.
