@@ -22,19 +22,20 @@
     * Cardealer
     * Winkel
     * Bank
+    * Club
 2. Dit wordt vaak geupdated met nieuwe bedrijfssoorten. Houd dit dus in de gaten.
 
 ## Titel I - Ingeschreven bedrijven
 
-### Los Pollos Hermanos
+### Nightclub Primelistiq
 
 1. Hier onder vind je alle informatie over het bedrijf.
    
 |   |  |  |
 |---|---|---|
-|  **Soort bedrijf** | Restaurant |
-| **Bedrijfsvestiging**  | 5035  |
-| **Eigenaar**  | Mick Joel Escobar | Mauro Krekels |
+|  **Soort bedrijf** | Club |
+| **Bedrijfsvestiging**  |3605  |
+| **Eigenaar**  | Meerdam Bfl  |
 
 ---------------------
 
