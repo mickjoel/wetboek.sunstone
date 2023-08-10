@@ -50,4 +50,28 @@
 | **Eigenaar**  | Ruben Escobar |
 
 ---------------------
+
+### Flightschool Primelistiq
+
+1. Hier onder vind je alle informatie over het bedrijf.
+   
+|   |  |  |
+|---|---|---|
+|  **Soort bedrijf** | Vliegschool |
+| **Bedrijfsvestiging**  | 2011  |
+| **Eigenaar**  | Mootje Tranquille |
+
+---------------------
+
+### Jumpers
+
+1. Hier onder vind je alle informatie over het bedrijf.
+   
+|   |  |  |
+|---|---|---|
+|  **Soort bedrijf** | Vervoers/ accomodatie |
+| **Bedrijfsvestiging**  | 2011  |
+| **Eigenaar**  | Mootje Tranquille |
+
+---------------------
 *Bedrijfsinschrijvingen Primelistiq is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad Primelistiq, opgetekend door Mick Joel Escobar, te Primelistiq.*
