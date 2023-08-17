@@ -1,8 +1,8 @@
-# Algemene Plaatselijke Verordening Primelistiq
+# Algemene Plaatselijke Verordening Sunstone
 
 ### Opmerkingen met betrekking tot de verordening
 
-Het Wetboek van Strafrecht, specifiek bedoeld voor Primelistiq, wordt hierbij ingetrokken en vervangen door deze APV.
+Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij ingetrokken en vervangen door deze APV.
 
 ## Algemene Bepalingen
 
