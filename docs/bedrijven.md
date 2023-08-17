@@ -15,7 +15,7 @@
 
 ### A4 - Soorten bedrijven
 
-1. Bedrijfssoorten zijn hieronder vastgesteld die mogelijk zijn in Primelistiq: 
+1. Bedrijfssoorten zijn hieronder vastgesteld die mogelijk zijn in Sunstone: 
     * Restaurant
     * Cafe
     * Horeca
@@ -27,7 +27,7 @@
 
 ## Titel I - Ingeschreven bedrijven
 
-### Nightclub Primelistiq
+### Nightclub Sunstone
 
 1. Hier onder vind je alle informatie over het bedrijf.
    
@@ -51,7 +51,7 @@
 
 ---------------------
 
-### Flightschool Primelistiq
+### Flightschool Sunstone
 
 1. Hier onder vind je alle informatie over het bedrijf.
    
