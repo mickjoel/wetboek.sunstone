@@ -5,8 +5,8 @@
 ### A1 - Reikwijdte
 
 1. Het Wetboek Sunstone (verder aangeduid als WSRP) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
-2. Het WPQ heeft betrekking op het vaste land, de gemeente, en de stad Sunstone.
-3. Het WPQ is nauw verweven met de Algemene Plaatselijke Verordening Sunstone (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
+2. Het WSRP heeft betrekking op het vaste land, de gemeente, en de stad Sunstone.
+3. Het WSRP is nauw verweven met de Algemene Plaatselijke Verordening Sunstone (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### A2 - Geldigheid
 
