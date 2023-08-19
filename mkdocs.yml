@@ -1,10 +1,10 @@
-site_name: Primelistiq wet en regelgeving
+site_name: Sunstone wet en regelgeving
 
 theme:
   name: material
 
 # Copyright
-copyright: Copyright &copy; 2023 - 2024 Primelistiq
+copyright: Copyright &copy; 2023 - 2024 Sunstone
 
 favicon: img/Logo.png
 logo: img/Logo.webp
