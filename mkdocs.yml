@@ -1,5 +1,8 @@
 site_name: Sunstone wet en regelgeving
 
+theme:
+  name: material
+ 
 # Copyright
 copyright: Copyright &copy; 2023 - 2024 Sunstone
 
