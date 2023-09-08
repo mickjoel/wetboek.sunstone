@@ -141,7 +141,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 9 - Combat-logging
 
-1. Hij/zij die tijdens een roleplay moedwillig de game verlaat zonder een geldige reden, en niet binnen 5 minuten terug is, zal bestraft worden met een straf volgens de 5e categorie.
+1. Hij/zij die tijdens een roleplay moedwillig de game verlaat zonder een geldige reden, en niet binnen 5 minuten terug is of zijn/haar item/wapen opbergt 10 minuten voor het gebruik, zal bestraft worden met een straf volgens de 5e categorie.
 2. Het is de bedoeling als men de game wil verlaten tijdens een roleplay er voor te zorgen dat de mensen die deelnemen aan de roleplay hiervan op de hoogte zijn. Probeer het eerst via "/looc {uitleg}" te vermelden als dat niet werkt kan het via voice vermeld worden.
 3. Nadat de persoon die de roleplay verlaten heeft weer is ingelogd wordt er van deze persoon verwacht de roleplay zo snel mogelijk te hervatten.
 4. Onder de overtreding van lid 1 valt ook het vermijden van een roleplay d.m.v. het gebruik van glitches. Val je bijvoorbeeld door de map na het inloggen terwijl je in de cel zit bij het politiebureau wordt er van je geacht je per direct weer te melden op het politiebureau.
@@ -545,13 +545,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 2. Uitzondering van het feit genoemd in lid 1 zal binnen de Hoge Raad besproken moeten worden. Enkel voorbeeld hiervan:
     * Enkel dansen als dansers in clubs.
 3. Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 7e categorie.
-
-### Artikel 58 - Reanimeren voor agenten
-
-1. Politie/ KMAR mogen niet hun eigen collega's via hun F6 menu omhoog helpen/reviven.
-2. Politie/ KMAR mogen pas mensen gaan reanimeren zodra er 0 ambulanciers in de stad zijn.
-3. Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van maximimaal de 4e categorie.
-4. 
+   
 ## Eiland
 
 Onderstaande regels tellen alleen op eiland
