@@ -11,8 +11,8 @@ logo: img/Logo.webp
  
 nav:
   - Home: index.md
-  - Algemene Plaatselijke Verordening Roleplay: apv.md
-  - Algemene Plaatselijke Verordening Testserver: apvts.md
+  - Algemene Plaatselijke Verordening: apv.md
+  - Algemene Plaatselijke Verordening: apvts.md
   - Wetboek: wetboek.md
   - Kamer van Koophandel: bedrijven.md
   - Gebieden: risico-gebieden.md
