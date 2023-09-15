@@ -12,7 +12,7 @@ logo: img/Logo.webp
 nav:
   - Home: index.md
   - Algemene Plaatselijke Verordening: apv.md
-  - Algemene Plaatselijke Verordening: apvts.md
+  - Algemene Plaatselijke Verordening TS: apvts.md
   - Wetboek: wetboek.md
   - Kamer van Koophandel: bedrijven.md
   - Gebieden: risico-gebieden.md
