@@ -2,13 +2,6 @@ site_name: Sunstone wet en regelgeving
 
 theme:
   name: material
-  features:
-  - navigation.tabs
-  - toc.integrate
-  - navigation.top
-  - content.tabs.link
-  - content.code.annotation
-  - content.code.copy
   langueage: en
  
 # Copyright
