@@ -57,7 +57,8 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij inget
 1. Hij/zij die moedwillig Roleplays van andere spelers verstoord zal gestraft worden met een straf volgens de 1e categorie.
 2. Indien de overtreder na de straf genoemd in lid 1 nog niet ophoudt met het verstorend gedrag kan er gekozen worden de overtreder te bestraffen volgens categorie 2.
 
-## Artikel 4 - Permissions abuse:¶
+## Artikel 4 - Permissions abuse:
+
 1. Het misbruiken van je F6 menu door bijvoorbeeld je als staff te opstellen (rdmers boeien etc.) of mensen te boeien die dat niet willen zal een straf opleveren van de 3e of 4e categorie.
 2. Je permissies misbruiken en daarmee mensen gaan reviven, of autos spammen is ook verboden en zal een straf opleveren van maximaal de 6e categorie.
 3. Noclippen in een gang huis van een officiële groepering zal een straf opleveren van de 1e categorie.
