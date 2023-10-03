@@ -372,11 +372,8 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 36 - Illegale activiteiten op Twitter
 
-1. Het is niet toegestaan om illegale activiteiten te bedrijven op Twitter of op enige voor publiek toegankelijke plaats (Blokkenpark, het casino, het politiebureau, het ziekenhuis en dergelijke).
-2. Onder illegale activiteiten wordt onder andere verstaan, maar niet beperkt tot, het verkopen van locaties waar illegale substanties opgehaald, verwerkt of verkocht kunnen worden, het verkopen en/of verhandelen van (illegale) wapens en in het algemeen handelen in enige goederen waaruit criminelen redelijkerwijs voordeel kunnen halen.  
-3. Het verbod zoals vermeld in lid 1 geldt tevens voor het handelen in illegale goederen of het verkopen hiervan waarbij NIET expliciet wordt vermeld dat het om deze illegale goederen, locaties of spullen gaat.
-4. Bij overtreding van lid 1 of lid 3 zal er een straf uitgedeeld worden volgens de 1e categorie.
-5. Bij herhaalde overtreding zal er een straf van de 2e categorie volgen.
+1. Het is toegestaan om illegale activiteiten te bedrijven op Twitter of op enige voor publiek toegankelijke plaats (Blokkenpark, het casino, het politiebureau, het ziekenhuis en dergelijke).
+2. Onder illegale activiteiten wordt onder andere verstaan, het verkopen en/of verhandelen van (illegale) wapens en in het algemeen handelen in enige goederen waaruit criminelen redelijkerwijs voordeel kunnen halen. Het is niet toegestaan om illegale (drugs) locaties te onthullen op twitter.
 
 ### Artikel 37 - Ontsnappen uit het cellencomplex
 
