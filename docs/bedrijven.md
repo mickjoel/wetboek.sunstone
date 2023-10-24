@@ -27,14 +27,14 @@
 
 ## Titel I - Ingeschreven bedrijven
 
-### Nightclub Sunstone
+### AutoScout24
 
 1. Hier onder vind je alle informatie over het bedrijf.
    
 |   |  |  |
 |---|---|---|
-|  **Soort bedrijf** | Club |
-| **Bedrijfsvestiging**  |3605  |
+|  **Soort bedrijf** | Cardealer |
+| **Bedrijfsvestiging**  | 3605  |
 | **Eigenaar**  | Meerdam Bfl  |
 
 ---------------------
@@ -47,7 +47,7 @@
 |---|---|---|
 |  **Soort bedrijf** | Cardealer |
 | **Bedrijfsvestiging**  | 7026  |
-| **Eigenaar**  | Ruben Escobar |
+| **Eigenaar**  | Mick Superman & Mauro Krekels |
 
 ---------------------
 
@@ -74,4 +74,4 @@
 | **Eigenaar**  | Mootje Tranquille |
 
 ---------------------
-*Bedrijfsinschrijvingen Primelistiq is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad Primelistiq, opgetekend door Mick Joel Escobar, te Primelistiq.*
+*Bedrijfsinschrijvingen Sunstone is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad Primelistiq, opgetekend door Mick Joel Escobar, te Primelistiq.*
