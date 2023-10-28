@@ -10,7 +10,7 @@ Wij wensen je super veel plezier in onze stad!
 
 ## Officiële discord servers
 
-Alle Primelistiq discord servers:
+Alle Sunstone discord servers:
 
 | Server | Uitnodigings link |
 |---|---|
