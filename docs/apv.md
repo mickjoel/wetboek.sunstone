@@ -79,7 +79,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij inget
 
 4. Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken, zonder dat hier toestemming is voor gegeven vanuit staff (denk hierbij aan het gebruik van sheets en andere onderlinge zaken). Eigenaren van externe discords waarin meta-gaming voorkomt, zullen een permanente ban ontvangen.
 
-5. Wanneer je met meerdere mensen die op TedeaPolis spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel.
+5. Wanneer je met meerdere mensen die op Sunstone spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel.
 
 6. Het streamen van de main server in een discord server is nooit toegestaan, tenzij je expliciet toestemming hebt van een stafflid.
 
@@ -88,7 +88,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij inget
 1. Bij het aanmaken van je personage dient je kleding veranderd te worden. Je mag niet dus niet met de starters kleding de server betreden. Verder dien je ervoor te zorgen dat je karakter er realistisch uitziet, armen bij de outfit kloppen en er geen lichaamsdelen ontbreken bij jouw personage.
 2. Er wordt geacht dat de kleding wordt gedragen die is verstrekt door de baas voor het uitvoeren van het beroep.
 3. Hij/zij die als niet ambtenaar kleding draagt van één van de overheidsbanen is verboden, tenzij er een goede roleplay aan vast zit, welke goedgekeurd is door een stafflid
-4. Officiële kleding verstrekt vanuit Tedeapolis bedoeld voor specifieke groeperingen mag niet door anderen gebruikt worden of als starters kleding gekozen worden, tenzij hier een sterke roleplay aan verbonden is.
+4. Officiële kleding verstrekt vanuit Sunstone bedoeld voor specifieke groeperingen mag niet door anderen gebruikt worden of als starters kleding gekozen worden, tenzij hier een sterke roleplay aan verbonden is.
 
 ### Artikel 4 - Combatlogging
 
@@ -128,12 +128,12 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij inget
 2. Er wordt geacht van mensen geen gebruik te maken van baan voertuigen voor illegale bezigheden, tenzij hier goedkeuring voor is gegeven vanuit een stafflid voor een roleplay scenario.
 3. Het is niet toegestaan met voertuigen gebouwen te betreden die daar niet voor bedoeld zijn.
 4. Het is niet toegestaan om jouw voertuig als wapen te gebruiken (VDM).
-5. Er wordt van de speler verwacht dat hij/zij met een realistische snelheid langs drukke locaties rijdt, denk hierbij aan het centrum van Tedeapolis.  
+5. Er wordt van de speler verwacht dat hij/zij met een realistische snelheid langs drukke locaties rijdt, denk hierbij aan het centrum van Sunstone.  
 
 ### Artikel 10 - Belediging
 
 1. Persoon die scheldt met hedendaags relevante ziektes, racistische opmerkingen, of andere ongepaste opmerkingen, wordt bestraft door middel van een permanente ban. Dit is ook van kracht op steam-, discord- en karakternaam.
-2. Het is tevens niet toegestaan om in de Tedeapolis erkende platformen toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen.
+2. Het is tevens niet toegestaan om in de Sunstone erkende platformen toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen.
 3. Op lid 1 geldt een uitzondering voor het schelden met hedendaagse relevante ziektes, bij de eerste keer zal dat bestraft worden doormiddel van een ban van twee weken. Bij de tweede keer zal hij/zij bestraft worden met 3 maanden ban, en derde keer zal het een permanente verbanning zijn.
 
 ### Artikel 11 - Overvallen & Oplichten
@@ -180,10 +180,10 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij inget
 
 ### Artikel 14 - Roleplay & Ledenaantal Criminele Organisaties
 
-1. Onder "criminele organisaties" vallen alle officiële groepen gevestigd in Tedeapolis.
+1. Onder "criminele organisaties" vallen alle officiële groepen gevestigd in Sunstone.
 2. Criminele organisaties mogen een maximaal ledenaantal van 25 personen hebben. Hierin is een vrije keuze voor het aantal leden met de "hangaround" rang.
 3. Een voorwaarde voor het samenwerken tussen criminele organisaties, is dat er geen volledige samenwerking tussen alle organisaties ontstaat en dat dit niet gebeurt tijdens het witwassen van geld.
-4. Wanneer officiële organisaties een samenwerking aangaan met een andere officiële organisatie dan dient dit gemeld te worden volgens het format in het daarvoor aangemaakte kanaal in de Tedeapolis Discord.
+4. Wanneer officiële organisaties een samenwerking aangaan met een andere officiële organisatie dan dient dit gemeld te worden volgens het format in het daarvoor aangemaakte kanaal in de Sunstone Discord.
 5. Wanneer de leden in een server supported organisatie zodanig opvallen op een negatieve manier (denk aan meerdere malen combat gedrag in plaats van roleplay, teveel warnings, etc.), zullen de Criminele Aanspreekpunten, Head Staff of Hoge Raad beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
 
 ### Artikel 15 - Ontsnappen uit het cellencomplex
@@ -230,9 +230,9 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij inget
 2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere criminele organisatie voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie.
 3. Het is voor de leidinggevenden van overheidsbanen en criminele organisaties verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.
 
-## Narcopolis
+## Eiland
 
-Onderstaande regels tellen alleen op Narcopolis
+Onderstaande regels tellen alleen op eiland
 
 ### Artikel N-1 - Schieten vanaf het vasteland en water
 
@@ -247,7 +247,7 @@ Onderstaande regels tellen alleen op Narcopolis
 
 ### Artikel N-3 - Samenwerking criminele organisaties
 
-1. Op Narcopolis is het voor een officiële groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
+1. Op Eiland is het voor een officiële groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
 2. Uitzondering op lid 1 is er voor het kopen en verkopen van drugs. Dit mag wel gedaan worden op het eiland tussen verschillende groepen en personen.
 
 ### Artikel N-4 - Campen van een niet actieve drugslocatie
@@ -296,10 +296,6 @@ Onderstaande regels tellen alleen op Narcopolis
 
 ### Bijlage 1
 
-![bijlage-1](https://tedeapolis.nl/wp-content/uploads/2021/08/Schermafbeelding_2021-08-23_om_10.png)
-
-### Bijlage 2
-
 ```md
 Op [datum] heeft [Eigen groepsnaam] een samenwerking opgesteld met [Andere groepsnaam].
 De samenwerking is gestart om [tijdstip].
@@ -308,4 +304,4 @@ Het doel van deze samenwerking is [korte omschrijving van de samenwerking].
 ```
 
 ---------------------
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.
+APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Sunstone”, opgetekend door Mick Superman, te Sunstone.
