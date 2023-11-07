@@ -20,8 +20,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij inget
 ### A3 - Strafbepaling
 
 1. De straffen zijn onderverdeeld in zeven categorieën:
-    * Categorie 1: een waarschuwing + maximaal 50 uur taakstraf
-        * (max 3 waarschuwingen in 1 maand, hierna volgt automatisch oplegging cat. 2)
+    * Categorie 1: een waarschuwing + maximaal 25 uur taakstraf
     * Categorie 2: een ban van maximaal 1 dag
     * Categorie 3: een ban van maximaal 2 dagen
     * Categorie 4: een ban van maximaal 3 dagen
@@ -69,19 +68,15 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij inget
 
 ### Artikel 2 - Cheats, Exploits & Meta-gaming
 
-1. Hij/zij die gebruikmaakt van software/hulpmiddelen (cheats) van derde partijen om profijt te krijgen in het spel, wordt gestraft door middel van een permanente ban.
+1. Hij/zij die gebruikmaakt van software/hulpmiddelen (cheats) van derde partijen om profijt te krijgen in het spel, wordt gestraft door middel van een ban van minimaal 1 maand.
 
-    Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als BetterDiscord is niet toegestaan.
-
-2. Hij/zij die moedwillig een bug en/of exploit misbruikt om voor zichzelf of anderen profijt te behalen of in-game functionaliteiten omzeild, ongeacht in welke middelen, zal per direct gestraft worden met een permanente ban.
+2. Hij/zij die moedwillig een bug en/of exploit misbruikt om voor zichzelf of anderen profijt te behalen of in-game functionaliteiten omzeild, ongeacht in welke middelen, zal gestraft worden met een minimale 1 week ban en maximaal 2 maanden.
 
 3. Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen FiveM) mag niet gebruikt worden door het karakter.
 
-4. Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken, zonder dat hier toestemming is voor gegeven vanuit staff (denk hierbij aan het gebruik van sheets en andere onderlinge zaken). Eigenaren van externe discords waarin meta-gaming voorkomt, zullen een permanente ban ontvangen.
+4. Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken, zonder dat hier toestemming is voor gegeven vanuit staff (denk hierbij aan het gebruik van sheets en andere onderlinge zaken). Eigenaren van externe discords waarin meta-gaming voorkomt, zullen een maximale ban van 2 dagen ontvangen.
 
 5. Wanneer je met meerdere mensen die op Sunstone spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel.
-
-6. Het streamen van de main server in een discord server is nooit toegestaan, tenzij je expliciet toestemming hebt van een stafflid.
 
 ### Artikel 3 - (Overheids) kleding
 
@@ -92,14 +87,13 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij inget
 
 ### Artikel 4 - Combatlogging
 
-1. Het is verboden tijdens een roleplay moedwillig de game verlaten zonder geldige reden. Er wordt verwacht dat je binnen 5 minuten terug bent. Doe je dit niet, zal er een ban van 7 dagen of meer uitgedeeld worden.
+1. Het is verboden tijdens een roleplay moedwillig de game verlaten zonder geldige reden. Er wordt verwacht dat je binnen 5 minuten terug bent. Doe je dit niet, zal er een ban van 1 dag of meer uitgedeeld worden (maximaal 1 week).
 2. Het is de bedoeling, als men de game wil verlaten tijdens een roleplay, ervoor te zorgen dat de mensen die deelnemen aan de roleplay hiervan op de hoogte zijn. Probeer het eerst via "/looc {uitleg}" te vermelden. Als dat niet werkt kan het via spraak vermeld worden.
 
 ### Artikel 5 - Nederlandse Taal
 
 1. Er wordt van spelers verwacht de Nederlandse of Engelse taal te beheersen. Indien iemand de Nederlandse of Engelse taal niet beheerst, is deze persoon niet welkom op de server.
 2. Andere talen dan het Nederlands en het Engels mogen niet gebruikt worden op een provocerende of beledigende manier gedurende de roleplay.
-3. Tijdens een staff- of overheids gesprek dient de persoon te allen tijde Nederlands te spreken, indien de medewerker dit wenst. Mocht de persoon de Nederlandse taal niet beheersen, dient er iemand aanwezig te zijn die namens hem in het Nederlands kan spreken.
 
 ### Artikel 6 - Report gebruik
 
@@ -111,15 +105,13 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij inget
 
 1. Het is verboden alt characters aan te maken met de intentie het start bedrag over te schrijven naar het account waar normaal op gespeeld wordt. Hiernaast is het ook verboden om meer dan 3 alt accounts aan te maken.
 2. Het is niet toegestaan om een alt character te maken om, bijvoorbeeld, criminele activiteiten te ondernemen. Wanneer een van je personages bij de overheid werkt.
-3. Hoewel alt characters toegestaan zijn, is het verboden om alt accounts te maken, of te multiboxen met alt characters. Dit zal worden bestraft met een permanente ban van alle (alt) accounts.
+3. Hoewel alt characters toegestaan zijn, is het verboden om alt accounts te maken, of te multiboxen met alt characters. Dit zal worden bestraft met een 2 maanden ban van alle (alt) accounts.
 
 ### Artikel 8 - Voertuig handelaar / Voertuig meetings
 
 1. Een voertuig handelaar mag enkel uitgevoerd worden wanneer hiervoor goedkeuring is vanuit justitie.
 2. Een voertuig handelaar mag:
     * Maximaal 10 voertuigen in hun “showroom” zetten.
-    * Zich enkel vestigen op een door justitie aangewezen locatie.
-    * Dient officiële vergunningen te hebben, ondertekend door een lid van justitie, waarin de locatie vermeld staat.
 3. Bij voertuig meetings mogen maximaal 20 voertuigen aanwezig zijn.
 
 ### Artikel 9 - Gebruik van voertuigen
@@ -132,9 +124,8 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij inget
 
 ### Artikel 10 - Belediging
 
-1. Persoon die scheldt met hedendaags relevante ziektes, racistische opmerkingen, of andere ongepaste opmerkingen, wordt bestraft door middel van een permanente ban. Dit is ook van kracht op steam-, discord- en karakternaam.
+1. Persoon die scheldt met hedendaags relevante ziektes, racistische opmerkingen, of andere ongepaste opmerkingen, wordt bestraft door middel van een 1 week ban. Dit is ook van kracht op karakternaam.
 2. Het is tevens niet toegestaan om in de Sunstone erkende platformen toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen.
-3. Op lid 1 geldt een uitzondering voor het schelden met hedendaagse relevante ziektes, bij de eerste keer zal dat bestraft worden doormiddel van een ban van twee weken. Bij de tweede keer zal hij/zij bestraft worden met 3 maanden ban, en derde keer zal het een permanente verbanning zijn.
 
 ### Artikel 11 - Overvallen & Oplichten
 
@@ -165,17 +156,17 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij inget
 * *Taxi*
 * *Brandweer*
 
-1. Voor een ambtenaar is het niet toegestaan zich bezig te houden met illegale bezigheden.
+1. Voor een indienst-ambtenaar is het niet toegestaan zich bezig te houden met illegale bezigheden.
 2. Het is niet toegestaan om door de politie in beslag genomen objecten door te handelen naar spelers. Ditzelfde is ook van toepassing op alle andere overheidsobjecten en op informatie die de (ex-)medewerker heeft verkregen tijdens zijn carrière bij de desbetreffende overheidsdienst. Dit geldt ook nadat de desbetreffende persoon ontslag heeft genomen of ontslagen is.
 3. Op lid 3 geldt een uitzondering voor medewerkers van de politie of koninklijke marechaussee met een speciale vergunning. Deze leden mogen wel hun wapens buiten dienst behouden.
 
 ### Artikel 13 - Gedrag tegen overheidsmedewerkers
 
 1. Meldingen naar een overheidsinstantie dienen te allen tijde realistisch en uitgebreid te zijn.
-2. Roleplay met de ANWB, Brandweer en Ambulance moet uitgebreid en realistisch zijn. Ook dien je mee te werken met de roleplay en mag je de medewerkers niet forceren om voertuigen te repareren of spelers te reviven. De medewerkers zijn te allen tijde leidend in hun roleplay.
+2. Roleplay met de ANWB en Ambulance moet uitgebreid en realistisch zijn. Ook dien je mee te werken met de roleplay en mag je de medewerkers niet forceren om voertuigen te repareren of spelers te reviven. De medewerkers zijn te allen tijde leidend in hun roleplay.
 3. Het is niet toegestaan om een melding te maken naar een overheidsinstantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
 4. Er moeten ten allen tijden vijf overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoerd is, dus als er 6 agenten aanwezig zijn mag er 1 ontvoerd worden, als er 5 aanwezig zijn mag er geen ontvoerd worden.
-5. Een uitzondering op lid 4 geldt voor de ambulance & brandweer. Hierbij moeten er te allen tijde 7 medewerkers beschikbaar blijven. Kortom, als er 8 ambulance of brandweer medewerkers aanwezig zijn, dan mag er 1 à 2 ontvoerd worden.
+5. Een uitzondering op lid 4 geldt voor de ambulance. Hierbij moeten er te allen tijde 7 medewerkers beschikbaar blijven. Kortom, als er 8 ambulance medewerkers aanwezig zijn, dan mag er 1 à 2 ontvoerd worden.
 6. Het is toegestaan om een agent te ontvoeren zodat je jouw voertuig uit de opslag kan halen, hiervoor dien je wel het bedrag af te lossen die hiervoor openstaat. Hierbij ontneem je wel het recht op een advocaat en/of hOVJ. Het is verboden om tussen 00:00 en 10:00 een voertuig uit de opslag te forceren.
 
 ### Artikel 14 - Roleplay & Ledenaantal Criminele Organisaties
@@ -250,12 +241,6 @@ Onderstaande regels tellen alleen op eiland
 1. Op Eiland is het voor een officiële groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
 2. Uitzondering op lid 1 is er voor het kopen en verkopen van drugs. Dit mag wel gedaan worden op het eiland tussen verschillende groepen en personen.
 
-### Artikel N-4 - Campen van een niet actieve drugslocatie
-
-1. Het campen van een niet actieve drugslocatie is niet toegestaan op het eiland.
-2. Zodra je binnen 1000 meter van de pluk bent, kan dit onder campen vallen. Dit is ter beoordeling aan een stafflid.
-3. Het is niet toegestaan om constant op en neer te rijden naar een niet-actieve drugs locatie, om zo de camp regel te omzeilen. Als dit blijft gebeuren zullen er sancties komen. Dit is ter beoordeling aan een stafflid.
-
 ## Tijdelijke bepalingen
 
 ## Slotbepaling: Regels in het kort
@@ -289,8 +274,7 @@ Onderstaande regels tellen alleen op eiland
 * Onder de AFK-kick proberen uit te komen is verboden.
 * Ben je als agent niet in game, mag je niet deelnemen aan een overval.
 * Wanneer je wordt vermoord door een rivaliserende gang mag je 24 uur niet deelnemen aan eventuele wraakacties of roleplay richting een andere gang.
-* Het is verboden een ambulancier of een medewerker van de ANWB te vermoorden of te ontvoeren bij een oproep of gebruik van hen.
-* Het is verboden om drugslocaties of wapens te verkopen via twitter, ook als je het hebt over "theeblaadjeslocaties", "broodmessen", "waterpistolen" en dergelijke.
+* Het is verboden een ambulancier of een medewerker van de ANWB te vermoorden of te ontvoeren bij een oproep of gebruik van hen
 
 ## Bijlages
 
