@@ -5,7 +5,7 @@ theme:
   langueage: en
  
 # Copyright
-copyright: Copyright &copy; 2023 - 2024 Sunstone
+copyright: Copyright © 2023 - 2023 Wave
 
 nav:
   - Home: index.md
