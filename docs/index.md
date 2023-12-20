@@ -1,22 +1,22 @@
-# Wet- en Regelgeving Sunstone
+# Wet- en Regelgeving Wave
 
-👋 | Welkom in de stad Sunstone!
+Welkom op de pagina voor de Wet- en Regelgeving van Wave!
+In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op Wave.
 
-We hebben hier een aantal (APV-)regels die in het onderaan staande link staat, wij willen je erop attenderen om deze even te gaan doorlezen om eventuele bans/ warns te voorkomen.
+Zorg ervoor, dat je voor je deelneemt aan Wave, kennis hebt genomen van deze wetten.
 
-Hier hebben we ook nog een wetboek waar alle in-roleplay strafdelicten staan zoals het vluchten van de politie. Hier kunt u de straffen vinden en zien wat wel legaal is en wat niet.
-
-Wij wensen je super veel plezier in onze stad!
+- De Algemene Plaatselijke Verordening bevat alle regels die niet te maken hebben met de testserver (dit zijn zogezegd de "server regels").
+- Het Wetboek Wave bevat alle wetten voor de burgers (in roleplay).
+- Alle overige documenten zijn specifiek bedoeld voor bepaalde zaken (zoals een belastingdocument waar je kan opzoeken hoeveel de autobelasting is).
 
 ## Officiële discord servers
 
-Alle Sunstone discord servers:
+Wave heeft verschillende discord servers die zijn goed gekeurd door het stadsbestuur deze zijn:
 
-| Server | Uitnodigings link |
-|---|---|
-|Sunstone Roleplay| [Link](https://discord.gg/sunstonerp) |
-|Sunstone Support| [Link](https://discord.gg/8CdrEbwwsA) |
-|Sunstone Hulpdiensten| [Link](https://discord.gg/WvtGbNQQUr) |
-|Sunstone Onderwereld| [Link](https://discord.gg/UTDD3udNVK) |
-|Sunstone Cardealer| [Link](https://discord.gg/5NhPSGQvAg) |
-
+| Server | Beschrijving | Invite link |
+|---|---|:---:|
+|Wave Testserver| Main discord server van Wave | [Invite](https://discord.gg/wavetestserver) |
+|Wave Support| Support discord server van Tedeapolis | [Invite](https://discord.gg/uQ9jGA93yC) |
+|Wave Cardealer| Cardealer discord server van Tedeapolis | [Invite](https://discord.gg/UcCG2kn) |
+|Tedeapolis Flightschool| Vliegschool discord server van Tedeapolis | [Invite](https://discord.gg/JMrvTrZqcz) |
+|Ministerie van Justitie en Veiligheid| Ministerie van Justitie en Veiligheid van Tedeapolis | [Invite](https://discord.gg/KPTt4ce5nw) |
