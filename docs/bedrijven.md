@@ -64,6 +64,16 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij inget
     Volvo V90 (RR) 'pbklasse'
     Volkswagen Toureq (MMT) 'pbklasse'
     Volvo Micu 'pbklasse'
+
+# ANWB voertuigenlijst
+    Mercedes-Benz Vito 'pbklasseovd'
+    Volkswagen T6 'pbklasse'
+    Volkswagen T5 'pbklasse'
+    Volkswagen Caddy 'pbklasse'
+    Ford Raptor (Offroad) 'pbklasse'
+    Volkswagen ID.Buzz 'pbklasse'
+    Flatbed 'pbklasse'
+    Toyota Hillux (Weginspecteur - Rijkswaterstaat) 'pbklasse'
     
 ---------------------
 Voertuigenlijst opgesteld uit naam van het Bestuur, bedoeld voor de testserver, de gemeente en de stad “Wave”, opgetekend door Mick Superman, te Wave.
