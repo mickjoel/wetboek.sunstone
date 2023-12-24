@@ -3,9 +3,11 @@
 
 
 
-|  **Eerste Veroordeling** |   | 15 uur  | €15000,-  |
-| **Tweede Veroordeling**  | 17 maanden  |  | €17500,-  |
-| **Meerdere Veroordelingen**  | 25 maanden  |   | €25000,-  |
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 5 uur  | €10000,-  |
+| **Tweede Veroordeling**  | 9 maanden  |  | €12500,-  |
+| **Meerdere Veroordelingen**  | 13 maanden  |   | €15000,-  |
 
 ### Artikel I-3 Diefstal met geweld / Overval (312 SR)
 
