@@ -4,7 +4,7 @@
 
 
 |   | **Key** | **Werking**  |   |
-|---|---|---|---|
+|---|---|---|
 |  **Eerste Veroordeling** |
 | **Tweede Veroordeling** |
 | **Meerdere Veroordelingen** |
