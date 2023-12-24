@@ -5,7 +5,7 @@ Sunstone kent enkele risicogebieden, NOTAM zones en Douanegebieden. In een risic
 De volgende gebieden zijn aangemerkt als no fly zones.
 
 * Militaire basis
-* Gevangenis
+* Gevangeni
 * Blokkenpark tot een hoogte van 300 meter (1000 feet)
 * Vliegdekschip
 
