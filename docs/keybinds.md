@@ -6,8 +6,8 @@
 | **Key** | **Werking**  |
 |---|---|
 | F1 | Interactie menu (voertuigen)
-| F1 | Interactie menu (voertuigen)
-| F1 | Interactie menu (voertuigen)
+| F2 | Inventory (gebruik rechtsonder de i knop voor meer informatie over de inventory)
+| F3 | Emote menu
 
 ### Artikel I-3 Diefstal met geweld / Overval (312 SR)
 
