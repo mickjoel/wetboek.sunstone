@@ -1,10 +1,6 @@
 # Voertuigenlijst Wave
 
-### Opmerkingen met betrekking tot de verordening
-
-Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij ingetrokken en vervangen door deze APV.
-
-# Politie voertuigenlijst
+### Politie voertuigenlijst
     Mercedes Benz B klasse 2014 (OvD) 'pbklasseovd'
     Mercedes Benz B klasse 2014 'pbklasse'
     Mercedes Benz B klasse 2019 'pbklasse2019'
@@ -38,7 +34,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij inget
     AW-139 Agusta 'agusta'
 
 
-# Marechaussee voertuigenlijst
+### Marechaussee voertuigenlijst
     Audi A6 'kmara6'
     Lichte Motor 'kmarlichtemotor'
     Zware Motor 'kmarzwaremotor'
@@ -55,7 +51,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij inget
     Fiat Ducato 'kmarducato'
     Volkswagen Passat 'kmarpassat'
 
-# Ambulance voertuigenlijst
+### Ambulance voertuigenlijst
     Mercedes-Benz Sprinter 2019 'blista'
     Mercedes-Benz Sprinter 2014 'asprinter2'
     Mercedes-Benz Sprinter 2019 Blokkendoos 'ablokkendoos'
@@ -69,7 +65,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij inget
     Volkswagen Toureq (MMT) 'atoureq'
     Volvo Micu 'amicu'
 
-# ANWB voertuigenlijst
+### ANWB voertuigenlijst
     Mercedes-Benz Vito 'anwbvito'
     Volkswagen T6 'anwbt6'
     Volkswagen T5 'anwbt5'
@@ -79,7 +75,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij inget
     Flatbed 'flatbed'
     Toyota Hillux (Weginspecteur - Rijkswaterstaat) 'RWS_Hilux_new'
 
-# Cardealer voertuigenlijst
+### Cardealer voertuigenlijst
     Chevrolet C8 'c8z0623'
     Chevrolet Exor 'exor'
     Ferrari Roma 20 'roma20'
@@ -217,4 +213,3 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij inget
     
     
 ---------------------
-Voertuigenlijst opgesteld uit naam van het Bestuur, bedoeld voor de testserver, de gemeente en de stad “Wave”, opgetekend door Mick Superman, te Wave.
