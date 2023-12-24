@@ -3,7 +3,7 @@
 
 
 
-|   | *Key*  | *Werking*  |   |
+|   | **Key**  **Werking**  |   |
 |---|---|---|---|
 |  **Eerste Veroordeling** |
 | **Tweede Veroordeling** |
