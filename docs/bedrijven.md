@@ -50,6 +50,20 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij inget
     Mercedes B klasse 'pbklasse'
     Fiat Ducato 'pbklasse'
     Volkswagen Passat 'pbklasse'
+
+# Ambulance voertuigenlijst
+    Mercedes-Benz Sprinter 2019 'pbklasseovd'
+    Mercedes-Benz Sprinter 2014 'pbklasse'
+    Mercedes-Benz Sprinter 2019 Blokkendoos 'pbklasse'
+    BMW Motor 'pbklasse'
+    Volkswagen Off road 'pbklasse'
+    Mercedes Vito 'pbklasse'
+    Mustang Mach-E Arts 'pbklasse'
+    Volkswagen ID.Buzz 'pbklasse'
+    Volvo XC40 (S.O.R.T.) 'pbklasse'
+    Volvo V90 (RR) 'pbklasse'
+    Volkswagen Toureq (MMT) 'pbklasse'
+    Volvo Micu 'pbklasse'
     
 ---------------------
 Voertuigenlijst opgesteld uit naam van het Bestuur, bedoeld voor de testserver, de gemeente en de stad “Wave”, opgetekend door Mick Superman, te Wave.
