@@ -59,6 +59,7 @@
 | /revive | Maak jezelf tot leven
 | /tpw [locatie] | Teleporteer jezelf naar een locatie
 | /fixvehicle | Repareer je voertuig
+| /cleanvehicle | Maak je voertuig schoon
 | /baanmenu | Open een menu om jezelf een job te geven
 | /itemmenu | Open een menu om jezelf een item te geven
 | /loadouts | Open een menu om jezelf een loadout te geven
