@@ -2,12 +2,13 @@
 
 
 
-
+### Algemene keybinds
 | **Key** | **Werking**  |
 |---|---|
 | U | Interactie menu (voertuigen)
 | F2 | Inventory
 | F3 | Emote menu
+| F5 | Interactio menu (emotes)
 | F7 | Facturen
 | B | Wijzen
 | M | Telefoon
@@ -18,6 +19,16 @@
 | Left CTRL | Bukken
 | Left ALT | Third Eye
 | DEL | Scorebord openen
+
+### Hotbar
+| **Key** | **Werking**  |
+|---|---|
+| Tab | Hotbar
+| 1 | Gebruik hotbar item 1
+| 2 | Gebruik hotbar item 2
+| 3 | Gebruik hotbar item 3
+| 4 | Gebruik hotbar item 4
+| 5 | Gebruik hotbar item 5
 
 ### Artikel I-3 Diefstal met geweld / Overval (312 SR)
 
