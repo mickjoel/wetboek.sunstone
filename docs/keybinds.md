@@ -2,7 +2,7 @@
 
 
 
-|---|---|---|---|
+
 |  **Eerste Veroordeling** |   | 15 uur  | €15000,-  |
 | **Tweede Veroordeling**  | 17 maanden  |  | €17500,-  |
 | **Meerdere Veroordelingen**  | 25 maanden  |   | €25000,-  |
