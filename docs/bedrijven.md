@@ -34,5 +34,22 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij inget
     Audi A6 2016 (Landelijke Eenheid) 'pbklasse'
     Mercedes Benz Sprinter (DV&O) 'pbklasse'
 
+# Marechaussee voertuigenlijst
+    Audi A6 'pbklasseovd'
+    Lichte Motor 'pbklasse'
+    Zware Motor 'pbklasse'
+    Ford Ranger 'pbklasse'
+    Toyota Land Cruiser 'pbklasse'
+    Mercedes Vito 'pbklasse'
+    Volkswagen Amarok 'pbklasse'
+    Volkswagen Amarok CAB 'pbklasse'
+    Volkswagen T6.1 'pbklasse'
+    Seat Ateca 'pbklasse'
+    Mercedes G63 HRB 'pbklasse'
+    Opel Astra 'pbklasse'
+    Mercedes B klasse 'pbklasse'
+    Fiat Ducato 'pbklasse'
+    Volkswagen Passat 'pbklasse'
+    
 ---------------------
 Voertuigenlijst opgesteld uit naam van het Bestuur, bedoeld voor de testserver, de gemeente en de stad “Wave”, opgetekend door Mick Superman, te Wave.
