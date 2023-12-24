@@ -30,11 +30,26 @@
 | 4 | Gebruik hotbar item 4
 | 5 | Gebruik hotbar item 5
 
-### Artikel I-3 Diefstal met geweld / Overval (312 SR)
+### Voertuigen
+| **Key** | **Werking**  |
+|---|---|
+| U | Interactie menu (voertuigen)
+| G | Gordel
+| K | Kofferbak
+| L | Voertuig vergrendelen
+| Y | Snelheids limiter
 
-1. Schuldig is een persoon die een goed wegneemt zonder daarvoor toestemming of enig recht toe te hebben, daarbij gebruik makende van geweld in enige vorm.
-2. Genoemd geweld is gebruikt bij de voorbereiding, diefstal of overval, of vlucht.
-3. Bij een poging tot diefstal met geweld / overval wordt de straf met 33% verminderd.
+### Commands
+| **key** | **Werking**  |
+|---|---|
+| /playtime | Je playtime te bekijken bij Wave
+| /report | Dien een report bij staff in
+| /emotemenu | Het menu van emote's in beeld te krijgen
+| /givecontact | Geef je telefoon nummer aan een persoon naast je
+| /postcode | Marker naar de postcode
+| /geefsleutels | Geef je je auto aan de dichtstbijzijnde persoon
+| /id | Om je eigen id in te zien
+| /propfix | Haal een prop uit je handen
 
 ---------------------
 *Wetboek Wave is opgesteld uit naam van de burgerraad, bedoeld voor het eiland, de gemeente en de stad Wave.*
