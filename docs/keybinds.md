@@ -1,7 +1,7 @@
 # Keybinds Wave
 
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+
 |---|---|---|---|
 |  **Eerste Veroordeling** |   | 15 uur  | €15000,-  |
 | **Tweede Veroordeling**  | 17 maanden  |  | €17500,-  |
