@@ -6,8 +6,8 @@
 | **Key** | **Werking**  |
 |---|---|
 | F1 | Interactie menu (voertuigen)
-| **Tweede Veroordeling** |
-| **Meerdere Veroordelingen** |
+| F1 | Interactie menu (voertuigen)
+| F1 | Interactie menu (voertuigen)
 
 ### Artikel I-3 Diefstal met geweld / Overval (312 SR)
 
