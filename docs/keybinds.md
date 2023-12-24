@@ -4,7 +4,7 @@
 
 
 | **Key** | **Werking**  |
-|---|---|
+|--|--|
 |  F1 | Interactie menu (voertuigen)
 | **Tweede Veroordeling** |
 | **Meerdere Veroordelingen** |
