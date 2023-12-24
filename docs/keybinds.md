@@ -5,7 +5,7 @@
 
 | **Key** | **Werking**  |
 |---|---|
-| F1 | Interactie menu (voertuigen)
+| U | Interactie menu (voertuigen)
 | F2 | Inventory
 | F3 | Emote menu
 | F7 | Facturen
