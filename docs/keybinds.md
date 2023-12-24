@@ -40,7 +40,7 @@
 | Y | Snelheids limiter
 
 ### Commands
-| **key** | **Werking**  |
+| **Key** | **Werking**  |
 |---|---|
 | /playtime | Je playtime te bekijken bij Wave
 | /report | Dien een report bij staff in
@@ -51,5 +51,18 @@
 | /id | Om je eigen id in te zien
 | /propfix | Haal een prop uit je handen
 
----------------------
-*Wetboek Wave is opgesteld uit naam van de burgerraad, bedoeld voor het eiland, de gemeente en de stad Wave.*
+### Testserver commands
+| **Key** | **Werking**  |
+|---|---|
+| /geldmenu | Geef jezelf cash, bank of black money
+| /heal | Herstel je gezondheid en health
+| /revive | Maak jezelf tot leven
+| /tpw [locatie] | Teleporteer jezelf naar een locatie
+| /fixvehicle | Repareer je voertuig
+| /baanmenu | Open een menu om jezelf een job te geven
+| /itemmenu | Open een menu om jezelf een item te geven
+| /loadouts | Open een menu om jezelf een loadout te geven
+| /wapens | Open een menu om jezelf een wapen te geven
+| /car | Open een menu om jezelf een auto te geven
+| /maxupgrades | Maak je voertuig fully tuned
+| /noclip | Ga in of uit noclip 
