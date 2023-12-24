@@ -4,8 +4,8 @@
 
 Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij ingetrokken en vervangen door deze APV.
 
-# Politie Voertuigenlijst
-    police  'Touran'
+# Politie voertuigenlijst
+    Mercedes Benz B klasse 2014 (OvD) 'pbklasseovd'
     police2  'Vito Bus'
     police3  'Audi A6'
     policet  'Transporter'
