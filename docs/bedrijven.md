@@ -1,77 +1,13 @@
-# Kamer van Koophandel inschrijvingen
+# Voertuigenlijst Wave
 
-## Algemene bepaling
+### Opmerkingen met betrekking tot de verordening
 
-### A2 - Verlopen bedrijf
+Het Wetboek van Strafrecht, specifiek bedoeld voor Sunstone, wordt hierbij ingetrokken en vervangen door deze APV.
 
-1. Bedrijven die geen KVK registratie hebben, failliet of verlopen zijn mogen aangehouden worden.
-2. Als dit feit wordt aangetoond worden de volgende straffen opgelegd voor de eigenaar.
-
-| *Veroordeling*  | *celstraf* | *taakstraf* | *boete* |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   |  | €10000,-  |
-| **Tweede Veroordeling**  |   |  | €12500,-  |
-| **Meerdere Veroordelingen**  |   |   | €15000,-  |
-
-### A4 - Soorten bedrijven
-
-1. Bedrijfssoorten zijn hieronder vastgesteld die mogelijk zijn in Sunstone: 
-    * Restaurant
-    * Cafe
-    * Horeca
-    * Cardealer
-    * Winkel
-    * Bank
-    * Club
-2. Dit wordt vaak geupdated met nieuwe bedrijfssoorten. Houd dit dus in de gaten.
-
-## Titel I - Ingeschreven bedrijven
-
-### AutoScout24
-
-1. Hier onder vind je alle informatie over het bedrijf.
-   
-|   |  |  |
-|---|---|---|
-|  **Soort bedrijf** | Cardealer |
-| **Bedrijfsvestiging**  | 3605  |
-| **Eigenaar**  | Meerdam Bfl  |
+## Politie voertuigen
+```md
+Mercedes Benz B klasse 2014 (OVD) 'pbklasseovd'
+```
 
 ---------------------
-
-### Luxury Cardealer
-
-1. Hier onder vind je alle informatie over het bedrijf.
-   
-|   |  |  |
-|---|---|---|
-|  **Soort bedrijf** | Cardealer |
-| **Bedrijfsvestiging**  | 7026  |
-| **Eigenaar**  | Mick Superman & Mauro Krekels |
-
----------------------
-
-### Flightschool Sunstone
-
-1. Hier onder vind je alle informatie over het bedrijf.
-   
-|   |  |  |
-|---|---|---|
-|  **Soort bedrijf** | Vliegschool |
-| **Bedrijfsvestiging**  | 2011  |
-| **Eigenaar**  | Mootje Tranquille |
-
----------------------
-
-### Jumpers
-
-1. Hier onder vind je alle informatie over het bedrijf.
-   
-|   |  |  |
-|---|---|---|
-|  **Soort bedrijf** | Vervoers/ accomodatie |
-| **Bedrijfsvestiging**  | 2011  |
-| **Eigenaar**  | Mootje Tranquille |
-
----------------------
-*Bedrijfsinschrijvingen Sunstone is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad Primelistiq, opgetekend door Mick Joel Escobar, te Primelistiq.*
+APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Sunstone”, opgetekend door Mick Superman, te Sunstone.
