@@ -3,7 +3,7 @@
 
 
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|   | *Celstraf*  | *Taakstraf*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** |   | 5 uur  |
 | **Tweede Veroordeling**  | 9 maanden  |
