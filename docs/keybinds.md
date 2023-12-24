@@ -3,11 +3,11 @@
 
 
 
-|   | *Celstraf*  | *Taakstraf*  |
+|   | *Key*  | *Werking*  |   |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 5 uur  |
-| **Tweede Veroordeling**  | 9 maanden  |
-| **Meerdere Veroordelingen**  | 13 maanden  |
+|  **Eerste Veroordeling** |
+| **Tweede Veroordeling** |
+| **Meerdere Veroordelingen** |
 
 ### Artikel I-3 Diefstal met geweld / Overval (312 SR)
 
