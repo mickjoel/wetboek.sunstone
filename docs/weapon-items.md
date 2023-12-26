@@ -1,0 +1,76 @@
+# Wapens & items Wave
+
+### Overheid wapens & items
+###### Politie (noodhulp)
+    Walther P99QNL 'weapon_p99qnl'
+    Taser X2 'weapon_stungun'
+    Zaklamp 'weapon_flashlight'
+    Handboeien 'handcuffs'
+    Pion 'pion'
+    Dranghek 'dranghek'
+    9MM (Pistol) 'ammo-9'
+###### Marechaussee
+    MP5 'weapon_mp5'
+    Glock 17 'weapon_glock17'
+    Taser X2 'weapon_stungun'
+    Zaklamp 'weapon_flashlight'
+    Handboeien 'handcuffs'
+    Pion 'pion'
+    Dranghek 'dranghek'
+    9MM (Pistol) 'ammo-9'
+###### DSI
+    SIG MCX 'weapon_sigmcx'
+    MP5 'weapon_mp5'
+    Glock 17 'weapon_glock17'
+    Taser X2 'weapon_stungun'
+    Zaklamp 'weapon_flashlight'
+    Handboeien 'handcuffs'
+    Bewijszakje 'bewijszak'
+    Pion 'pion'
+    Dranghek 'dranghek'
+    9MM (Pistol) 'ammo-9'
+    5.56 (MCX) 'ammo-rifle'
+###### Recherche
+    Walther P99QNL 'weapon_p99qnl'
+    Taser X2 'weapon_stungun'
+    Zaklamp 'weapon_flashlight'
+    Handboeien 'handcuffs'
+    Bewijszakje 'bewijszak'
+    Pion 'pion'
+    Dranghek 'dranghek'
+    9MM (Pistol) 'ammo-9'
+    5.56 (MCX) 'ammo-rifle'
+
+### Overige wapens & items
+###### Wapens
+    M1911 'weapon_m1911'
+    Swtichblade 'weapon_switchblade'
+    AK47 'weapon_ak47'
+    AK-47U 'weapon_ak47u'
+    MAC-11 'weapon_mac11'
+    UZI 'weapon_uzi'
+    UMP45 'weapon_ump45'
+    Smith & Wesson 'weapon_smithwesson'
+    MEOS-45 'weapon_meos45'
+    Remington 680 'weapon_remington680'
+    SPAS-12 'weapon_spas12'
+    HK416 'weapon_hk416'
+    SIG MCX 'weapon_sigmcx'
+    Skorpion vz. 61 'weapon_skorp'
+    Bayonet 'weapon_bayonet'
+    Fire Axe 'weapon_fireaxe'
+    Barbed Wire Bat 'weapon_wirebat'
+    Tri-Dagger 'weapon_tri-dagger'
+    Taser X2 'weapon_stungun'
+    Wapenstok 'weapon_nightstick'
+    Zaklamp 'weapon_flashlight'
+    Barret .50 Cal 'weapon_barret50'
+    Brandblusser 'weapon_fireextinguisher'
+    Parachute 'parachute'
+###### Communicatie
+    Telefoon 'phone'
+    Portofoon 'radio'
+    GPS 'gps'
+    
+    
+---------------------
