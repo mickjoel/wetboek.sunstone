@@ -8,7 +8,6 @@
     Pion 'pion'
     Dranghek 'dranghek'
     9MM (Pistol) 'ammo-9'
-
 #### DSI wapens & items
     SIG MCX 'weapon_sigmcx'
     Glock 17 'weapon_glock17'
