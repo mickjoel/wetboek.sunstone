@@ -89,6 +89,15 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Wave, wordt hierbij ingetrokk
 1. Het is verboden om je permissies te misbruiken, denk aan het F6 menu, noclip, noem het maar op.
 2. Hij/zij die moedwillig een permissie en/of command misbruikt om anderen mee lastig te vallen/ irriteren, ongeacht in welke middelen dan ook, zal gestraft worden met een minimale 5 dagen ban en maximaal 1 maand.
 
+### Artikel 10 - RDM
+
+1. Het killen van mensen die niet betrokken zijn bij jouw schietpartij en ook niet betrokken willen zijn zal een straf opleveren van de 1e categorie.
+2. Als iemand op het eiland loopt zonder wapen vast, en niet in een scenario zit met een andere persoon/groepering, mag deze persoon niet vermoord worden. Dit word gezien als een ongeldige reden en zal worden bestraft volgens de 1e categorie.
+
+### Artikel 11 - VDM
+
+1. Hij/zij die op iemand inrijdt met de intentie deze persoon te vermoorden zal gestraft worden volgens de 1e categorie.
+
 ## Eiland
 
 Onderstaande regels tellen alleen op eiland
