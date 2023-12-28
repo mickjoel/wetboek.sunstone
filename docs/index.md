@@ -16,4 +16,4 @@ Wave heeft verschillende discord servers die zijn goed gekeurd door het stadsbes
 |---|---|:---:|
 |Wave Testserver| Main discord server van Wave | [Invite](https://discord.gg/wavetestserver) |
 |Wave Support| Support discord server van Wave | [Invite](https://discord.gg/ADbwTEU9N7) |
-|Wave Onderwereld| Onderwereld discord server van Wave | [Invite](https://discord.gg/UcCG2kn) |
+|Wave Onderwereld| Onderwereld discord server van Wave | [Invite](https://discord.gg/ADbwTEU9N7) |
