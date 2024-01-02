@@ -64,7 +64,6 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Wave, wordt hierbij ingetrokk
 
 1. Je mag als burger geen (overheids)voertuigen stelen zonder toestemming, tenzij er in de roleplay een goede reden voor is of wanneer er toestemming is gegeven door een stafflid.
 2. Het is niet toegestaan om jouw voertuig als wapen te gebruiken (VDM).
-3. Er wordt van de speler verwacht dat hij/zij met een realistische snelheid langs drukke locaties rijdt, denk hierbij aan het blokkenpark.  
 
 ### Artikel 6 - Belediging
 
@@ -83,11 +82,12 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Wave, wordt hierbij ingetrokk
 
 1. Het is verboden om zomaar een ganghuis binnen te treden als politie of criminele groep, hiervoor moet eerst staff of de politie leidinggevende toestemming te geven.
 2. Het confisqueren van items, wapens en geld van een speler is alleen toegestaan als hier een roleplay aan is verbonden.
+3. Wat beschreven staat in lid 1 en 2 wordt gestraft volgens de 1e categorie.
 
 ### Artikel 9 - Permissies misbruiken
 
 1. Het is verboden om je permissies te misbruiken, denk aan het F6 menu, noclip, noem het maar op.
-2. Hij/zij die moedwillig een permissie en/of command misbruikt om anderen mee lastig te vallen/ irriteren, ongeacht in welke middelen dan ook, zal gestraft worden met een minimale 5 dagen ban en maximaal 1 maand.
+2. Hij/zij die moedwillig een permissie en/of command misbruikt om anderen mee lastig te vallen/ irriteren, ongeacht in welke middelen dan ook, zal gestraft worden met een minimale 2 dagen ban en maximaal 2 weken.
 
 ### Artikel 10 - RDM
 
@@ -97,6 +97,10 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Wave, wordt hierbij ingetrokk
 ### Artikel 11 - VDM
 
 1. Hij/zij die op iemand inrijdt met de intentie deze persoon te vermoorden zal gestraft worden volgens de 1e categorie.
+
+### Artikel 12 - Microfoon
+
+1. Hij/zij die door een microfoon schreeuwt waar anderen medespelers last van hebben zal gestraft worden volgens de 1e categorie of een kick.
 
 ## Eiland
 
