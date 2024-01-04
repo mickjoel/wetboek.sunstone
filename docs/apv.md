@@ -102,6 +102,10 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Wave, wordt hierbij ingetrokk
 
 1. Hij/zij die door een microfoon schreeuwt waar anderen medespelers last van hebben zal gestraft worden volgens de 1e categorie of een kick.
 
+### Artikel 13 - Bedreiging
+
+1. Hij/zij die persoonlijke informatie door leaked in de discord als game wordt bestraft volgens minimaal de 5e categorie.
+
 ## Eiland
 
 Onderstaande regels tellen alleen op eiland
