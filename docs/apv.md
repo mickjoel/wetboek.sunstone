@@ -106,6 +106,10 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Wave, wordt hierbij ingetrokk
 
 1. Hij/zij die persoonlijke informatie door leaked in de discord als game wordt bestraft volgens minimaal de 5e categorie.
 
+### Artikel 14 - Verstoren van RP
+
+1. Hij/zij die een roleplay verstoort van een andere speler wordt bestraft volgens maximaal 4e categorie.
+
 ## Eiland
 
 Onderstaande regels tellen alleen op eiland
