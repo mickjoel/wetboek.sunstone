@@ -45,70 +45,44 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Wave, wordt hierbij ingetrokk
 
 2. Hij/zij die moedwillig een bug en/of exploit misbruikt om voor zichzelf of anderen profijt te behalen of in-game functionaliteiten omzeild, ongeacht in welke middelen, zal gestraft worden met een minimale 1 week ban en maximaal 2 maanden.
 
-### Artikel 2 - Combatlogging
-
-1. Het is verboden tijdens een staffzaak moedwillig de game verlaten zonder geldige reden. Er wordt verwacht dat je binnen 5 minuten terug bent. Doe je dit niet, zal er een ban van 1 dag of meer uitgedeeld worden (maximaal 1 week).
-
-### Artikel 3 - Nederlandse Taal
-
-1. Er wordt van spelers verwacht de Nederlandse of Engelse taal te beheersen. Indien iemand de Nederlandse of Engelse taal niet beheerst, is deze persoon niet welkom op de server.
-2. Andere talen dan het Nederlands en het Engels mogen niet gebruikt worden op een provocerende of beledigende manier gedurende de roleplay.
-
-### Artikel 4 - Report gebruik
-
-1. Er wordt van mensen verwacht gebruik te maken van “/report” om overtredingen van regels te melden. Dit zodat de overtreder hiervan niet op de hoogte is en de eventuele roleplay hierdoor niet beïnvloed wordt.
-2. Het is als je een report maakt niet de bedoeling om dit in game te melden aan mensen. Wanneer dit wel gedaan wordt, kan een stafflid waarschijnlijk daardoor geen straffen uitdelen omdat de persoon zal doorhebben dat er iemand meekijkt.
-3. Het spammen van reports, het onnodig aanmaken van reports en discussiëren in reports is verboden.
-
-### Artikel 5 - Gebruik van voertuigen
-
-1. Je mag als burger geen (overheids)voertuigen stelen zonder toestemming, tenzij er in de roleplay een goede reden voor is of wanneer er toestemming is gegeven door een stafflid.
-2. Het is niet toegestaan om jouw voertuig als wapen te gebruiken (VDM).
-
-### Artikel 6 - Belediging
+### Artikel 2 - Belediging
 
 1. Persoon die scheldt met hedendaags relevante ziektes, racistische opmerkingen, of andere ongepaste opmerkingen, wordt bestraft door middel van minimaal een 1 week ban. Dit is ook van kracht op karakternaam.
 2. Het is tevens niet toegestaan om in de Wave erkende platformen toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen.
 
-### Artikel 7 - Roleplay & Ledenaantal Criminele Organisaties
+### Artikel 3 - Roleplay & Ledenaantal Criminele Organisaties
 
-1. Onder "criminele organisaties" vallen alle officiële groepen gevestigd in Wave.
-2. Criminele organisaties mogen een maximaal ledenaantal van 25 personen hebben. Hierin is een vrije keuze voor het aantal leden met de "hangaround" rang.
-3. Een voorwaarde voor het samenwerken tussen criminele organisaties, is dat er geen volledige samenwerking tussen alle organisaties ontstaat en dat dit niet gebeurt tijdens teamen op het eiland.
-4. Wanneer officiële organisaties een samenwerking aangaan met een andere officiële organisatie dan dient dit gemeld te worden volgens het format in het daarvoor aangemaakte kanaal in de Wave Discord.
-5. Wanneer de leden in een server supported organisatie zodanig opvallen op een negatieve manier (denk aan meerdere malen permissies misbruiken in plaats van soort roleplay, teveel warnings, etc.), zullen de Criminele Aanspreekpunten, Headstaff of Bestuur beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
+1. Onder "criminele organisaties" vallen alle officiële donatie groepen gevestigd in Wave.
+2. Wanneer de leden in een server supported organisatie zodanig opvallen op een negatieve manier (denk aan meerdere malen permissies misbruiken in plaats van soort roleplay, teveel warnings, etc.), zullen de Criminele Aanspreekpunten, Headstaff of Bestuur beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
+3. Het verstoren van een roleplay, zoals een bank overval noem het maar op. Wordt bestraft met minimaal de 1e en maximaal de 3e categorie.
 
-### Artikel 8 - Officiële gang regels
+### Artikel 4 - Officiële gang regels
 
 1. Het is verboden om zomaar een ganghuis binnen te treden als politie of criminele groep, hiervoor moet eerst staff of de politie leidinggevende toestemming te geven.
 2. Het confisqueren van items, wapens en geld van een speler is alleen toegestaan als hier een roleplay aan is verbonden.
 3. Wat beschreven staat in lid 1 en 2 wordt gestraft volgens de 1e categorie.
 
-### Artikel 9 - Permissies misbruiken
+### Artikel 5 - Permissies misbruiken
 
 1. Het is verboden om je permissies te misbruiken, denk aan het F6 menu, noclip, noem het maar op.
 2. Hij/zij die moedwillig een permissie en/of command misbruikt om anderen mee lastig te vallen/ irriteren, ongeacht in welke middelen dan ook, zal gestraft worden met een minimale 2 dagen ban en maximaal 2 weken.
 
-### Artikel 10 - RDM
+### Artikel 6 - RDM
 
 1. Het killen van mensen die niet betrokken zijn bij jouw schietpartij en ook niet betrokken willen zijn zal een straf opleveren van de 1e categorie.
 2. Als iemand op het eiland loopt zonder wapen vast, en niet in een scenario zit met een andere persoon/groepering, mag deze persoon niet vermoord worden. Dit word gezien als een ongeldige reden en zal worden bestraft volgens de 1e categorie.
 
-### Artikel 11 - VDM
+### Artikel 8 - VDM
 
 1. Hij/zij die op iemand inrijdt met de intentie deze persoon te vermoorden zal gestraft worden volgens de 1e categorie.
 
-### Artikel 12 - Microfoon
+### Artikel 9 - Microfoon
 
 1. Hij/zij die door een microfoon schreeuwt waar anderen medespelers last van hebben zal gestraft worden volgens de 1e categorie of een kick.
 
-### Artikel 13 - Bedreiging
+### Artikel 10 - Bedreiging
 
 1. Hij/zij die persoonlijke informatie door leaked in de discord als game wordt bestraft volgens minimaal de 5e categorie.
-
-### Artikel 14 - Verstoren van RP
-
-1. Hij/zij die een roleplay verstoort van een andere speler wordt bestraft volgens maximaal 4e categorie.
 
 ## Eiland
 
