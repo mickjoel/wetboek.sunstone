@@ -204,6 +204,7 @@
     Audi R8 Spider 2020 'r8spyder20'
     Audi RS5 'rs52021'
     Audi RS6 'rmodrs6'
+    Audi RS6 Widebody 'rs6tdb'
     Audi RS3 'rs3'
     Audi RS7 'rs7'
     CT5 VBW 22 'ct5vbw22'
