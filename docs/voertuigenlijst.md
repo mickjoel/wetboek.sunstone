@@ -109,6 +109,7 @@
     BMW M8C 'rmodm8c'
     BMW X5 'x5bmw'
     BMW X5M 'x5m'
+    BMW M3 Touring 'rmodm3touring'
     Porsche Cayenne 2022 '22caygt'
     Porsche Cross 22 'ikx3cross22'
     Porsche GT4RS '718gt4rs'
