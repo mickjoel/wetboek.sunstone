@@ -69,13 +69,22 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Wave, wordt hierbij ingetrokk
 2. Het is verboden om aan een actieve overval zomaar te gaan mengen als je geen overheid bent of er onderdeel van bent.
 3. Lid 1 en 2 zal gestraft worden volgens maximaal de 3e categorie.
 
+### Artikel 7 - RDM en VDM
+
+1. Het is niet toegestaan om jouw voertuig als wapen te gebruiken (VDM). Bij overtreding zal dit resulteren in een straf volgens de 1e categorie.
+2. Het onnodig vermoorden (RDM) en/of anderen lastig vallen zonder verdere intentie tot betrekking van jou shootout is niet toegestaan.
+3. Lid 1 en 2 zal gestraft worden volgens maximaal de 1e categorie.
+4. Mocht lid 1 en/of 2 vaker worden overtreden mag het worden verhoogd tot een ban van maximaal 2 dagen.
+
 ## Tijdelijke bepalingen
 
 ## Slotbepaling: Regels in het kort
 
 * Geen Cheats (Uiteraard is het niet toegestaan om cheats te gebruiken om jezelf een voordeel te geven en dit zal dan ook resulteren is een regelrechte ban)
-* Niet overdreven schelden. (Geen Kanker en dergelijke, maakt niet uit of het bij je karakter hoort of niet. Hier wordt extra streng op gestraft.)
-* Gebruik /report om mensen te rapporteren die niet naar de regels luisteren. (Maakt de community veel beter).
+* Geen VDM (vehicle deathmatch, je wagen als wapen gebruiken).
+* Geen RDM (random deathmatch, zonder goede reden mensen schieten).
+* Niet overdreven schelden (geen Kanker en dergelijke, maakt niet uit of het bij je karakter hoort of niet. Hier wordt extra streng op gestraft).
+* Gebruik /report om mensen te rapporteren die niet naar de regels luisteren (maakt de community veel beter).
 * Niet ADVERTEREN met je eigen server/discord in de server zowel als op de discord.
 
 ## Bijlages
