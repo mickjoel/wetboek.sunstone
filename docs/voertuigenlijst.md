@@ -1,4 +1,5 @@
 # Voertuigenlijst Wave
+Staat er een voertuig niet tussen? Maak dan een ticket aan en voegen wij hem zo snel mogelijk hem toe aan deze lijst.
 
 ### Politie voertuigenlijst
     Mercedes Benz B klasse 2014 (OvD) 'pbklasseovd'
