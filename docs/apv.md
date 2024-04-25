@@ -69,13 +69,6 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Wave, wordt hierbij ingetrokk
 2. Het is verboden om aan een actieve overval zomaar te gaan mengen als je geen overheid bent of er onderdeel van bent.
 3. Lid 1 en 2 zal gestraft worden volgens maximaal de 3e categorie.
 
-### Artikel 7 - RDM en VDM
-
-1. Het is niet toegestaan om jouw voertuig als wapen te gebruiken (VDM). Bij overtreding zal dit resulteren in een straf volgens de 1e categorie.
-2. Het onnodig vermoorden (RDM) en/of anderen lastig vallen zonder verdere intentie tot betrekking van jou shootout is niet toegestaan.
-3. Lid 1 en 2 zal gestraft worden volgens maximaal de 1e categorie.
-4. Mocht lid 1 en/of 2 vaker worden overtreden mag het worden verhoogd tot een ban van maximaal 2 dagen.
-
 ## Tijdelijke bepalingen
 
 ## Slotbepaling: Regels in het kort
