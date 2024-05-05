@@ -69,6 +69,16 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Wave, wordt hierbij ingetrokk
 2. Het is verboden om aan een actieve overval zomaar te gaan mengen als je geen overheid bent of er onderdeel van bent.
 3. Lid 1 en 2 zal gestraft worden volgens maximaal de 3e categorie.
 
+### Artikel 7 - Massa RDM/VDM
+
+1. Hij/zij die een persoon of personen meerdere keren zonder reden doodschiet achter elkaar wordt gezien als RDM.
+2. Hij/zij die een persoon of personen meerdere keren zonder reden dood rijdt achter elkaar wordt gezien als VDM.
+3. Lid 1 en 2 zal gestraft worden volgens maximaal de 2e categorie.
+
+### Artikel 8 - Reports
+
+1. Hij/zij die meerdere keren onnodige reports aanmaakt of het zit te spammen zal gestraft worden volgens de maximaal de 2e categorie.
+
 ## Tijdelijke bepalingen
 
 ## Slotbepaling: Regels in het kort
